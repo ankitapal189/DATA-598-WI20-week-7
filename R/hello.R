@@ -20,6 +20,7 @@
 #' @export
 #'
 #' @examples
+#' mult_two(1)
 mult_two <- function(x) {
   return (x*2)
 }
@@ -33,6 +34,7 @@ mult_two <- function(x) {
 #' @export
 #'
 #' @examples
+#' plus_two(1)
 plus_two <- function(x)
 {
   return (x+2)
