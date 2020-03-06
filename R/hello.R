@@ -13,9 +13,10 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
-#' Title
+#' Adds two to any number
+#' @param x an integer or double; any number
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
@@ -24,11 +25,11 @@ mult_two <- function(x) {
 }
 
 
-#' Title
+#' Multiply two to any number
 #'
-#' @param x
+#' @param x an integer or double; any number
 #'
-#' @return
+#' @return a number
 #' @export
 #'
 #' @examples
