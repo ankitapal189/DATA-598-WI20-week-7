@@ -3,7 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/ankitapal189/DATA-598-WI20-week-7/workflows/R-CMD-check/badge.svg)]
-[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ankitapal189/DATA-598-WI20-week-7/tree/master/tests?urlpath=rstudio)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ankitapal189/DATA-598-WI20-week-7/tests?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of mysimplecompendium is to ...
